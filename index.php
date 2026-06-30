@@ -28,7 +28,7 @@ file_put_contents($filename, (string)$count);
 
     <p>現在の時刻は <?php echo date('Y-m-d H:i:s'); ?> です。</p>
 
-    <p>あなたは <strong><?php echo $count; ?></strong> 人目のお客様です。</p>
+    <p>あなたは <strong><?php echo $count; ?></strong> 人目のです。</p>
 
 </body>
 </html>
